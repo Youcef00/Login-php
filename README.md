@@ -8,4 +8,4 @@ Ceci est site web d'authentification fait en **PHP** et **PostgreSQL** de base m
 
 Un petit detail sympa c'est que j'ai regroupé l'inscription et l'authentification dans la méme page et j'ai gérer la transition entre ces deux la que par du **CSS** et un petit peu de **JS**
 
-Lien vers le site web: [Clique ici.](https://log-php-test.000webhostapp.com/)
+Lien vers le site web: [Clique ici.](https://login-php-2.herokuapp.com/index.php)
